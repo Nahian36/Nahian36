@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nahian36
+- 👋 Hi, this is Nahian Ibn Asad [@Nahian36].
 - 👀 I’m interested in exploring new branches of Computer Science.
 - 🌱 I’m currently a student of Computer Science and Engineering department from Islamic University of Technology, OIC, Bangladesh.
 - 💞️ I’m looking to collaborate on Web Development and Machine Learning.
